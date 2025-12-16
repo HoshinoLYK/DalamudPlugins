@@ -19,5 +19,29 @@
     "DownloadLinkUpdate": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.8/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/HKazuki0818/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png"
+  },
+  {
+    "Author": "Usagi",
+    "Name": "IINACT",
+    "InternalName": "IINACT",
+    "AssemblyVersion": "2.8.3.9",
+    "TestingAssemblyVersion": "2.8.3.9",
+    "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/marzent/IINACT",
+    "Tags": [
+      "parsing",
+      "plugin",
+      "ACT"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+    "Punchline": "A parsing plugin.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/marzent/IINACT/releases/download/v2.8.3.9/IINACT.zip",
+    "DownloadLinkTesting": "https://github.com/marzent/IINACT/releases/download/v2.8.3.9/IINACT.zip",
+    "DownloadLinkUpdate": "https://github.com/marzent/IINACT/releases/download/v2.8.3.9/IINACT.zip"
   }
 ]
