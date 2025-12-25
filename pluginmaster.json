@@ -18,5 +18,30 @@
     "DownloadLinkInstall": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
     "DownloadLinkTesting": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
     "DownloadLinkUpdate": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.10/latest.zip"
-  }
+  },
+  {
+  "Author": "Usagi(作者), HKazuki0818(維護)",
+  "Name": "IINACT",
+  "InternalName": "IINACT",
+  "AssemblyVersion": "2.8.3.10",
+  "Description": "一個用於在類似 ACT 的環境中執行 FFXIV_ACT_Plugin 的外掛程式，採用針對現代 .NET 進行大幅修改的 Overlay Plugin 移植版本。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/HKazuki0818/IINACT",
+  "Tags": [
+    "parsing",
+    "plugin",
+    "ACT"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+  "Punchline": "一個解析外掛程式。",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/HKazuki0818/IINACT/releases/download/2.8.3.10/latest.zip",
+  "DownloadLinkTesting": "https://github.com/HKazuki0818/IINACT/releases/download/2.8.3.10/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/HKazuki0818/IINACT/releases/download/2.8.3.10/latest.zip"
+}
 ]
