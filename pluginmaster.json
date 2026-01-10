@@ -21,7 +21,6 @@
         "Punchline": "Don't fail at raid mechanics anymore",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/BossMod/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/BossMod/latest.zip"
     },
     {
@@ -45,7 +44,6 @@
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/YesAlready/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/YesAlready/latest.zip"
     },
     {
@@ -70,7 +68,6 @@
         "Changelog": "Click the Changelog button to see whats new",
         "AcceptsFeedback": false,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoHook/latest.zip"
     },
     {
@@ -114,5 +111,61 @@
         "AcceptsFeedback": true,
         "FeedbackMessage": null,
         "_Dip17Channel": null
+    },
+    {
+        "Author": "Herculezz",
+        "Name": "AutoDuty",
+        "InternalName": "AutoDuty",
+        "AssemblyVersion": "0.0.0.221",
+        "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+            "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+            "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+            "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+            "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+        ],
+        "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+        "Punchline": "AutoDuty",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoDuty/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoDuty/latest.zip"
+    },
+    {
+        "Author": "Team Wrath",
+        "Name": "Wrath Combo",
+        "InternalName": "WrathCombo",
+        "AssemblyVersion": "1.0.1.17",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+        "Tags": [
+            "combo",
+            "wrath",
+            "wrathcombo",
+            "auto",
+            "autorotation",
+            "rotation",
+            "pve",
+            "pvp"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WrathCombo/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WrathCombo/latest.zip"
     }
 ]
