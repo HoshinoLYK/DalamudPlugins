@@ -5,7 +5,7 @@
   "AssemblyVersion": "2.0.2.3",
   "Description": "A tool to assist you on your Eureka adventures, now updated for Dawntrail! Type /eurekahelper to get started.\n\nFeatures include:\n- In-Game Tracker GUI\n- Instance Tracker\n- Elementals Tracker\n- Relic Helper\n- Alarms\n- Money NM weather timings\n- More to come",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/KangasZ/EurekaHelper",
+  "RepoUrl": "https://github.com/HoshinoCorp/EurekaHelper",
   "Tags": [
     "Eureka",
     "Tracker",
