@@ -1,9 +1,9 @@
 {
-  "Author": "Snowy, KangasZ",
+  "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
   "Name": "Eureka Helper",
   "InternalName": "EurekaHelper",
   "AssemblyVersion": "2.0.2.3",
-  "Description": "A tool to assist you on your Eureka adventures, now updated for Dawntrail! Type /eurekahelper to get started.\n\nFeatures include:\n- In-Game Tracker GUI\n- Instance Tracker\n- Elementals Tracker\n- Relic Helper\n- Alarms\n- Money NM weather timings\n- More to come",
+  "Description": "協助你在優雷卡冒險的實用工具，現已支援 Dawntrail！輸入 /eurekahelper 開始使用。\n\n功能：\n- 遊戲內置追蹤器\n- F.A.T.E事件追蹤\n- 聖靈追蹤\n- Relic輔助\n- 提醒功能\n- 高收益「危險標的怪物」天氣時間\n- 持續更新中",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/HoshinoCorp/EurekaHelper",
   "Tags": [
@@ -26,6 +26,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Eureka Tracker in a plugin with many other features.",
+  "Punchline": "內建多項功能的優雷卡追蹤器插件。",
   "AcceptsFeedback": true
 }
