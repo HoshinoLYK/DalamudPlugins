@@ -201,5 +201,28 @@
         "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/EurekaHelper/main/EurekaHelper/Resources/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/EurekaHelper/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/EurekaHelper/latest.zip"
+    },
+    {
+        "Author": "sourpuh, HoshinoLYK（繁中服優化）",
+        "Name": "Waymark Studio",
+        "InternalName": "WaymarkStudio",
+        "AssemblyVersion": "0.0.0.35",
+        "Description": "一款全面取代遊戲內建 Waymark 編輯器及 Waymark Preset 插件的工具，提供完整的標記點管理功能，讓標記點的放置、儲存與載入更加快速、方便且精確。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoLYK/WaymarkStudio",
+        "Tags": [
+            "waymark",
+            "studio"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "FFXIV 終極標記點插件",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/WaymarkStudio/main/WaymarkStudio/res/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkStudio/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkStudio/latest.zip"
     }
 ]
