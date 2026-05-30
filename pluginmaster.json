@@ -228,7 +228,7 @@
     {
         "Author": "sourpuh, HoshinoLYK（繁中服優化）",
         "Name": "Waymark Preset",
-        "InternalName": "WaymarkPreset",
+        "InternalName": "WaymarkPresetPlugin",
         "AssemblyVersion": "1.5.4.3",
         "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
         "ApplicableVersion": "any",
