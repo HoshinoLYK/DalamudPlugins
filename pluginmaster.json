@@ -224,5 +224,30 @@
         "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/WaymarkStudio/main/WaymarkStudio/res/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkStudio/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkStudio/latest.zip"
+    },
+    {
+        "Author": "sourpuh, HoshinoLYK（繁中服優化）",
+        "Name": "Waymark Preset",
+        "InternalName": "WaymarkPreset",
+        "AssemblyVersion": "1.5.4.3",
+        "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoLYK/WaymarkPreset",
+        "Tags": [
+            "Waymark",
+            "Marker",
+            "Preset",
+            "Tool"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "強化標記點管理",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/WaymarkPreset/main/docs/Images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkPreset/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkPreset/latest.zip"
     }
 ]
