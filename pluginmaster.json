@@ -247,7 +247,7 @@
         "Punchline": "強化標記點管理",
         "AcceptsFeedback": true,
         "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/WaymarkPreset/main/docs/Images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkPreset/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkPreset/latest.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/yanmucorp/PluginDistD17/main/stable/WaymarkPresetPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/yanmucorp/PluginDistD17/main/stable/WaymarkPresetPlugin/latest.zip"
     }
 ]
