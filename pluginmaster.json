@@ -281,7 +281,7 @@
         "Punchline": "基本上就是狩獵雷達 + A級列車記錄器 + 通知系統 + S級怪工具集等等。",
         "AcceptsFeedback": true,
         "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/HuntHelper/main/Images/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkPreset/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkPreset/latest.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/HuntHelper/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/HuntHelper/latest.zip"
     }
 ]
