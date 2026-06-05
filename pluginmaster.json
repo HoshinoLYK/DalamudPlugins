@@ -307,11 +307,12 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "ImageUrls": [
-            "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/PriceInsight/images/image1.png"
+            "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/images/image1.png",
+            "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/images/image2.png"
         ],
         "Punchline": "滑鼠指向物品時查看市場板價格！",
         "AcceptsFeedback": true,
-        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/PriceInsight/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/images/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/PriceInsight/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/PriceInsight/latest.zip"
     },
