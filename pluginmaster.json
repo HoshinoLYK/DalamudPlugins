@@ -283,5 +283,61 @@
         "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/HuntHelper/main/Images/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/HuntHelper/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/HuntHelper/latest.zip"
+    },
+    {
+        "Author": "Kouzukii, HoshinoLYK（繁中服優化）",
+        "Name": "Price Insight",
+        "InternalName": "PriceInsight",
+        "AssemblyVersion": "2.11.2.0",
+        "Description": "當滑鼠移到物品上時，會在下方顯示該物品普通品質（NQ）／高品質（HQ）的市場板價格，以及最近成交價格。\n價格資料取自 Universalis.app，並會快取 90 分鐘。\n若要重新整理價格，可在滑鼠停留於物品上時按下 Alt 鍵。\n",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoCorp/PriceInsight",
+        "Tags": [
+            "marketboard",
+            "items",
+            "price"
+        ],
+        "CategoryTags": [
+            "ui",
+            "utility"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/PriceInsight/images/image1.png"
+        ],
+        "Punchline": "滑鼠指向物品時查看市場板價格！",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/PriceInsight/images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/PriceInsight/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/PriceInsight/latest.zip"
+    },
+    {
+        "Author": "electr0sheep, HoshinoLYK（繁中服優化）",
+        "Name": "Item Vendor Location",
+        "InternalName": "ItemVendorLocation",
+        "AssemblyVersion": "2.10.0.0",
+        "Description": "為物品新增右鍵選單選項，可顯示該物品可向哪些商人購買。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoCorp/ItemVendorLocation",
+        "Tags": [
+            "item location vendor"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/HoshinoCorp/ItemVendorLocation/main/Images/ContextMenu.png"
+        ],
+        "Punchline": "顯示商店販售物品的購買位置",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/ItemVendorLocation/main/Images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/ItemVendorLocation/latest.zip"
     }
 ]
