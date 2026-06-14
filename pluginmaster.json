@@ -342,5 +342,53 @@
         "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/QoLBar/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/QoLBar/latest.zip"
+    },
+    {
+        "Author": "NightmareXIV, HoshinoLYK（繁中服優化）",
+        "Name": "Splatoon",
+        "InternalName": "Splatoon",
+        "AssemblyVersion": "3.8.1.5",
+        "Description": "Splatoon 是一款強大的輔助工具，透過自訂導航標記系統徹底革新 FFXIV 的遊戲體驗。它允許玩家建立無限數量的群組標記、文字標籤與目標指示器，並以像素級精度進行定位與顯示。/n此功能能讓重要目標、機制與事件更加醒目且易於辨識，協助玩家更快速地掌握戰場資訊並做出反應，進而提升整體遊戲體驗與可及性。/n需要注意的是，Splatoon 本身不預載任何預設配置。玩家可以依照自身需求自由建立標記方案，也能匯入其他玩家分享的配置，打造專屬於自己的導航與提示系統。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoCorp/Splatoon",
+        "Tags": [
+            "Utility",
+            "Accessibility"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "以無限制且精準的導航標記，重新定義 FFXIV 的導航體驗。",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/Splatoon/main/docs/images/splatoon_icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/Splatoon/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/Splatoon/latest.zip"
+    },
+    {
+        "Author": "Liza Carvelli (Puni.sh), HoshinoLYK（繁中服優化）",
+        "Name": "Palace Pal",
+        "InternalName": "PalacePal",
+        "AssemblyVersion": "4.12.0.0",
+        "Description": "顯示死者宮殿、天之御柱與正統優雷卡中的可能陷阱與詛咒寶藏位置。\n\n本插件需搭配 Splatoon 使用，所有畫面上的標記、提示與繪圖功能皆透過 Splatoon 進行渲染。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoCorp/PalacePal",
+        "Tags": [
+            "potd",
+            "palace",
+            "hoh",
+            "splatoon"
+        ],
+        "DalamudApiLevel": 12,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "顯示死者宮殿、天之御柱與正統優雷卡中的可能陷阱與詛咒寶藏位置。",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/PalacePal/main/Assets/palacepal_icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/PalacePal/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/PalacePal/latest.zip"
     }
 ]
