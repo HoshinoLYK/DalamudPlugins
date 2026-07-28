@@ -118,7 +118,7 @@
         "Author": "Team Wrath",
         "Name": "Wrath Combo",
         "InternalName": "WrathCombo",
-        "AssemblyVersion": "1.0.1.17",
+        "AssemblyVersion": "1.0.2.26",
         "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
@@ -132,7 +132,7 @@
             "pve",
             "pvp"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
