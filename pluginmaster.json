@@ -3,7 +3,7 @@
         "Author": "veyn, HoshinoLYK（繁中服優化）",
         "Name": "Boss Mod",
         "InternalName": "BossMod",
-        "AssemblyVersion": "0.0.0.0",
+        "AssemblyVersion": "0.4.11.1",
         "Description": "提供各種輔助工具，讓Boss戰機制變得更簡單。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/HoshinoCorp/BossMod",
