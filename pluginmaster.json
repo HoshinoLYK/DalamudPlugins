@@ -238,14 +238,14 @@
         "Author": "electr0sheep, HoshinoLYK（繁中服優化）",
         "Name": "Item Vendor Location",
         "InternalName": "ItemVendorLocation",
-        "AssemblyVersion": "2.10.0.0",
+        "AssemblyVersion": "2.11.0.0",
         "Description": "為物品新增右鍵選單選項，可顯示該物品可向哪些商人購買。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/HoshinoCorp/ItemVendorLocation",
         "Tags": [
             "item location vendor"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
