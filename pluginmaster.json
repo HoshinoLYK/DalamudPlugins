@@ -321,15 +321,15 @@
         "Author": "UnknownX, HoshinoLYK（繁中服優化）",
         "Name": "QoL Bar",
         "InternalName": "QoLBar",
-        "AssemblyVersion": "2.3.3.4",
-        "Description": "這是一個插件，旨在提供一個簡單、可自訂且隨時可用的介面，用於執行聊天指令\n或其他插件功能，以減少為了達成類似效果而使用巨集與熱鍵列空間的需求。\n\n插件一開始應會以小方框的形式出現在遊戲視窗底部中央。",
+        "AssemblyVersion": "2.3.3.5",
+        "Description": "此插件提供簡單、可自訂且隨時可用的介面，讓你執行聊天指令\n或其他插件功能，減少使用巨集及占用快捷列空間的需求，並達到相同的效果。\n\n插件初次啟動時，會在遊戲視窗底部中央顯示為一個小方框。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/HoshinoCorp/QoLBar",
         "CategoryTags": [
             "UI",
             "utility"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -337,7 +337,7 @@
         "ImageUrls": [
             ""
         ],
-        "Punchline": "可自訂的 ImGui 熱鍵列",
+        "Punchline": "可自訂的 ImGui 快速鍵",
         "AcceptsFeedback": true,
         "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/QoLBar/latest.zip",
