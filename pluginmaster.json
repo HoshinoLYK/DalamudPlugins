@@ -1,24 +1,24 @@
 [
     {
-        "Author": "veyn",
+        "Author": "veyn, HoshinoLYK（繁中服優化）",
         "Name": "Boss Mod",
         "InternalName": "BossMod",
         "AssemblyVersion": "0.0.0.0",
-        "Description": "A bunch of utilities to simplify bosses.",
+        "Description": "提供各種輔助工具，讓Boss戰機制變得更簡單。",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-        "DalamudApiLevel": 12,
+        "RepoUrl": "https://github.com/HoshinoCorp/BossMod",
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "ImageUrls": [
-            "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
-            "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
-            "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
+            "https://raw.githubusercontent.com/HoshinoCorp/BossMod/master/Data/image1.png",
+            "https://raw.githubusercontent.com/HoshinoCorp/BossMod/master/Data/image2.png",
+            "https://raw.githubusercontent.com/HoshinoCorp/BossMod/master/Data/image3.png"
         ],
-        "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
-        "Punchline": "Don't fail at raid mechanics anymore",
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/BossMod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
+        "Punchline": "再也不用怕副本機制翻車",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/BossMod/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/BossMod/latest.zip"
