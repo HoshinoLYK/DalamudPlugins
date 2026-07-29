@@ -206,7 +206,7 @@
         "Author": "Kouzukii, HoshinoLYK（繁中服優化）",
         "Name": "Price Insight",
         "InternalName": "PriceInsight",
-        "AssemblyVersion": "2.11.2.0",
+        "AssemblyVersion": "2.11.3.0",
         "Description": "當滑鼠移到物品上時，會在下方顯示該物品普通品質（NQ）／高品質（HQ）的市場板價格，以及最近成交價格。\n價格資料取自 Universalis.app，並會快取 90 分鐘。\n若要重新整理價格，可在滑鼠停留於物品上時按下 Alt 鍵。\n",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/HoshinoCorp/PriceInsight",
@@ -219,7 +219,7 @@
             "ui",
             "utility"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
