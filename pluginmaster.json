@@ -71,13 +71,13 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoHook/latest.zip"
     },
     {
-        "Author": "veyn, AtmoOmen, HoshinoLYK（繁中服優化）",
+        "Author": "veyn, HoshinoLYK（繁中服優化）",
         "Name": "vnavmesh",
         "InternalName": "vnavmesh",
-        "AssemblyVersion": "0.1.9.0",
+        "AssemblyVersion": "1.1.2.1",
         "Description": "自動控制角色移動，並智慧避開沿途障礙物。",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
