@@ -115,13 +115,13 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/AutoDuty/latest.zip"
     },
     {
-        "Author": "Team Wrath",
+        "Author": "Team Wrath, MeowZWR, HoshinoLYK（繁中服優化）",
         "Name": "Wrath Combo",
         "InternalName": "WrathCombo",
-        "AssemblyVersion": "1.0.2.26",
-        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "AssemblyVersion": "1.0.2.21",
+        "Description": "將連擊與互斥技能整合為單一按鍵，並提供更多便利功能。",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+        "RepoUrl": "https://github.com/HoshinoCorp/WrathCombo",
         "Tags": [
             "combo",
             "wrath",
@@ -138,68 +138,10 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "IconUrl": "https://s3.puni.sh/media/plugin/60/icon-2bwhkn3zf1f.png",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+        "Punchline": "將連擊與互斥技能整合為單一按鍵，並提供更多便利功能。",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WrathCombo/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WrathCombo/latest.zip"
-    },
-    {
-        "Author": "Snowy, KangasZ, HoshinoLYK（繁中服優化）",
-        "Name": "Eureka Helper",
-        "InternalName": "EurekaHelper",
-        "AssemblyVersion": "2.0.2.3",
-        "Description": "協助你在優雷卡冒險的實用工具，現已支援 Dawntrail！輸入 /eurekahelper 開始使用。\n\n功能：\n- 遊戲內置追蹤器\n- F.A.T.E事件追蹤\n- 聖靈追蹤\n- Relic輔助\n- 提醒功能\n- 高收益「危險標的怪物」天氣時間\n- 持續更新中",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/HoshinoCorp/EurekaHelper",
-        "Tags": [
-            "Eureka",
-            "Tracker",
-            "QoL",
-            "Instance",
-            "Weather",
-            "NM",
-            "Elemental",
-            "Fairy",
-            "Relic",
-            "Alarms"
-        ],
-        "CategoryTags": [
-            "Utility"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "內建多項功能的優雷卡追蹤器插件。",
-        "AcceptsFeedback": true,
-        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/EurekaHelper/main/EurekaHelper/Resources/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/EurekaHelper/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/EurekaHelper/latest.zip"
-    },
-    {
-        "Author": "sourpuh, HoshinoLYK（繁中服優化）",
-        "Name": "Waymark Studio",
-        "InternalName": "WaymarkStudio",
-        "AssemblyVersion": "0.0.0.35",
-        "Description": "一款全面取代遊戲內建 Waymark 編輯器及 Waymark Preset 插件的工具，提供完整的標記點管理功能，讓標記點的放置、儲存與載入更加快速、方便且精確。",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/HoshinoLYK/WaymarkStudio",
-        "Tags": [
-            "waymark",
-            "studio"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "FFXIV 終極標記點插件",
-        "AcceptsFeedback": true,
-        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/WaymarkStudio/main/WaymarkStudio/res/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkStudio/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/WaymarkStudio/latest.zip"
     },
     {
         "Author": "sourpuh, HoshinoLYK（繁中服優化）",
