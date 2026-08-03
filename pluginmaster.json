@@ -183,5 +183,24 @@
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/yanmucorp/PluginDistD17/91d9ef6a676d7ee907fbd7fdc5fb98bf7e5da15b/stable/ARealmRecorded/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/yanmucorp/PluginDistD17/91d9ef6a676d7ee907fbd7fdc5fb98bf7e5da15b/stable/ARealmRecorded/latest.zip"
+    },
+    {
+        "Author": "Anna, chirp, HoshinoLYK（繁中服優化）",
+        "Name": "Globetrotter",
+        "InternalName": "Globetrotter",
+        "AssemblyVersion": "1.2.15",
+        "Description": "自動顯示藏寶圖的位置。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/HoshinoCorp/Globetrotter",
+        "DalamudApiLevel": 13,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/Globetrotter/main/icon.png",
+        "Punchline": "自動顯示藏寶圖的位置。",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/Globetrotter/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/plugins/Globetrotter/latest.zip"
     }
 ]
